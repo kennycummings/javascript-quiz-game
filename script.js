@@ -58,8 +58,13 @@ function displayQuestion() {
 
   currentQuestion.choices.forEach((choice, index) => {
     const li = document.createElement("li");
-    li.textContent = choice;
-    li.addEventListener("click", () => checkAnswer(choice));
+
+    const button = document.createElement("button");
+    button.textContent = choice;
+    button.className = "btn btn-secondary"; // Add Bootstrap button styling
+    button.addEventListener("click", () => checkAnswer(choice));
+
+    li.appendChild(button);
     choicesElement.appendChild(li);
   });
 }
