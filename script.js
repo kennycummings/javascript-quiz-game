@@ -61,7 +61,7 @@ function displayQuestion() {
 
     const button = document.createElement("button");
     button.textContent = choice;
-    button.className = "btn btn-secondary"; // Add Bootstrap button styling
+    button.className = "btn btn-secondary"; // Added Bootstrap button styling
     button.addEventListener("click", () => checkAnswer(choice));
 
     li.appendChild(button);
