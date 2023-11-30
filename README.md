@@ -1,6 +1,6 @@
 # javascript-quiz-game
 
-This JavaScript code is a JavaScript quiz. The point of this exercise is to advance my JavaScript knowledge by using variables, DOM elements, event listeners, and functions. I used BootStrap for some of the styling.
+This JavaScript is a basic structure for a quiz with a timer and score-saving functionality. The point of this exercise is to advance my JavaScript knowledge by using variables, DOM elements, event listeners, and functions. I used BootStrap for some of the styling.
 
 ### 1. Data Structure:
    - `const questions`: Each object represents a quiz question. Each question object has properties for the question itself (`question`), an array of choices (`choices`), and the correct answer (`correctAnswer`).
@@ -40,9 +40,6 @@ This JavaScript code is a JavaScript quiz. The point of this exercise is to adva
 
 <br>
 
-This script provides a basic structure for a quiz application with a timer and score-saving functionality.
-<br>
-<br>
 Web Application URL: https://kennycummings.github.io/javascript-quiz-game/
 <br>
 <br>
