@@ -46,17 +46,17 @@ Web Application URL: https://kennycummings.github.io/javascript-quiz-game/
 Screenshots of Application:
 <br>
 <br>
-<img src="./images/screenshot-1.png" alt="Homepage">
+![Homepage](./Images/screenshot-1.png)
 <br>
 <br>
-<img src="./images/screenshot-2.png" alt="Example of a question and hovering over the multiple choice bubbles">
+![Multiple Choice Bubbles](./Images/screenshot-2.png)
 <br>
 <br>
-<img src="./images/screenshot-3.png" alt="Example of a correct answer">
+![Correct Answer](./Images/screenshot-3.png)
 <br>
 <br>
-<img src="./images/screenshot-4.png" alt="Example of a wrong answer">
+![Wrong Answer](./Images/screenshot-4.png)
 <br>
 <br>
-<img src="./images/screenshot-5.png" alt="High score display">
+![High Score Display](./Images/screenshot-5.png)
 
