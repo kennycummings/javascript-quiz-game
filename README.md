@@ -44,3 +44,19 @@ Web Application URL: https://kennycummings.github.io/javascript-quiz-game/
 <br>
 <br>
 Screenshots of Application:
+<br>
+<br>
+<img src="./images/screenshot-1.png" alt="First screenshot of the homepage">
+<br>
+<br>
+<img src="./images/screenshot-2.png" alt="Second screenshot of the homepage">
+<br>
+<br>
+<img src="./images/screenshot-3.png" alt="First screenshot of the homepage">
+<br>
+<br>
+<img src="./images/screenshot-4.png" alt="Second screenshot of the homepage">
+<br>
+<br>
+<img src="./images/screenshot-5.png" alt="First screenshot of the homepage">
+
