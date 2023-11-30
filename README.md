@@ -38,6 +38,8 @@ This JavaScript is a basic structure for a quiz with a timer and score-saving fu
 
 - Local storage is used to store and retrieve quiz scores.
 
+- Applied Google fonts
+
 <br>
 
 Web Application URL: https://kennycummings.github.io/javascript-quiz-game/
